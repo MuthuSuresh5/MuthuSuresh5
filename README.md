@@ -155,22 +155,6 @@ database integration and CRUD operations.
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MuthuSuresh5&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuSuresh5&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -181,26 +165,6 @@ database integration and CRUD operations.
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=MuthuSuresh5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
-  />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MuthuSuresh5&theme=tokyo-night&hide_border=true"
-    width="100%"
-  />
-</p>
-
----
 
 # 🎯 2026 Goals
 
