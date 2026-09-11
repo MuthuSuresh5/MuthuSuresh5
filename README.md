@@ -144,7 +144,7 @@ I'm always interested in discussing **software development, cloud computing, Dev
   <a href="https://github.com/MuthuSuresh5">
     <img src="https://img.shields.io/badge/GitHub-MuthuSuresh5-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/muthu-suresh/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
